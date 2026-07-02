@@ -2,7 +2,7 @@
 
 Unofficial AVO MK Valve tester resources, including manuals, schematics, valve data tables, CAD files, 3D-printable parts, dimensions and repair notes.
 
-This repository is intended to help owners preserve, repair and document the AVO Mk III valve characteristic meter.
+This repository is intended to help owners preserve, repair and document their AVO Valve Characteristic Meters.
 
 ## Notice
 
