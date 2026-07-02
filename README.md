@@ -1,6 +1,6 @@
-# AVO VCM Mk III Resources
+# AVO VCM Resources
 
-Unofficial AVO Mk III valve tester resources, including manuals, schematics, valve data tables, CAD files, 3D-printable parts, dimensions and repair notes.
+Unofficial AVO MK Valve tester resources, including manuals, schematics, valve data tables, CAD files, 3D-printable parts, dimensions and repair notes.
 
 This repository is intended to help owners preserve, repair and document the AVO Mk III valve characteristic meter.
 
@@ -12,12 +12,12 @@ Please read [NOTICE.md](NOTICE.md) and [LICENSE.md](LICENSE.md) before reusing, 
 
 ## Contents
 
-* `calibration/` — calibration notes, measurements and related data
-* `documents/` — manuals, valve data tables and reference documents
-* `schematics/` — schematic references and circuit documentation
-* `replacement-parts/` — CAD files, STEP/STL exports and 3D-printable replacement parts
-* `pictures/` — reference photographs
-* `logo/` — logo and artwork references
+* `calibration/` - calibration notes, measurements and related data
+* `documents/` - manuals, valve data tables and reference documents
+* `schematics/` - schematic references and circuit documentation
+* `software/` - firmware, control software, test scripts and related development files
+* `replacement-parts/` - CAD files, STEP/STL exports and 3D-printable replacement parts
+* `pictures/` - reference photographs, artwork references
 
 ## Licensing
 
