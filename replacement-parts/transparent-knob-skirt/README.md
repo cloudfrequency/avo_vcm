@@ -1,0 +1,27 @@
+# REPLACEMENT PART FOR AVO MK3 Knob Skirt
+
+I designed replacement transparent knob skirts and ordered four pieces from JLC3DP (https://jlc3dp.com/), of which two were used.
+
+
+## Manufacturing details/Specification
+
+3D file:		knob_skirt_v0.stl
+Dimensions:		6.35 × 6.35 × 0.84 cm
+Volume:			5.61 cm³
+Surface area:		70.08 cm²
+Technology:		SLA resin printing
+Material:		8001 Resin
+Colour:			Transparent
+Surface finish:		01 Oil Spraying
+Thread:			No thread
+Quantity:		4
+Product description:	Plastic Base
+
+
+As shown in transparent_knob_skirt_1, I added the white pointer mark using white nail polish. The area was masked with Kapton tape, and any excess polish was removed with isopropyl alcohol.
+
+In transparent_knob_skirt_2, the original knob skirt is shown on the left and the 3D-printed replacement on the right.
+
+I am very pleased with the result, although only time will tell how well the material holds up. The hole for the potentiometer shaft was slightly tight, but in my case the fit was perfect.
+
+Original material created specifically for this repository is licensed as described in [LICENSE.md](LICENSE.md).
