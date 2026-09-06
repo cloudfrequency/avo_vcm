@@ -11,7 +11,7 @@ Diodes clamp the voltage across the meter during a fault; the capacitor slows tr
 - Mounts: 2x5mm plated holes with 10mm pad
 
 ## License
-[CC BY-SA 4.0 / other] — free to use and modify.
+Original material created specifically for this repository is licensed as described in [LICENSE.md](https://github.com/cloudfrequency/avo_vcm/blob/main/LICENSE.md)
 
 ## Disclaimer
 Shared as-is, no warranty. Build and fit at your own risk.
