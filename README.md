@@ -16,7 +16,7 @@ Please read [NOTICE.md](NOTICE.md) and [LICENSE.md](LICENSE.md) before reusing, 
 * `documents/` - manuals, valve data tables and reference documents
 * `schematics/` - schematic references and circuit documentation
 * `software/` - firmware, control software, test scripts and related development files
-* `replacement-parts/` - CAD files, STEP/STL exports and 3D-printable replacement parts
+* `parts/` - PCB, CAD files, STEP/STL exports and 3D-printable replacement parts
 * `pictures/` - reference photographs, artwork references
 
 ## Licensing
