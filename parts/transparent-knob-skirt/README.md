@@ -3,7 +3,7 @@
 I designed replacement transparent knob skirts and ordered four pieces from
 [JLC3DP](https://jlc3dp.com/), of which two were used.
 
-### Manufacturing details
+## Manufacturing details
 
 | Setting | Specification |
 | --- | --- |
@@ -24,5 +24,6 @@ I am very pleased with the result, although only time will tell how well the
 material holds up. The hole for the potentiometer shaft was slightly tight,
 but in my case the fit was perfect.
 
-Original material created specifically for this repository is licensed as described in [LICENSE.md](LICENSE.md).
+## License
+Original material created specifically for this repository is licensed as described in [LICENSE.md](https://github.com/cloudfrequency/avo_vcm/blob/main/LICENSE.md)
 
